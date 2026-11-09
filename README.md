@@ -12,13 +12,7 @@
 
 1. 安装 Python 3，并确认命令行可以使用 `python` 命令。
 2. 打开 PowerShell 或命令提示符。
-3. 进入脚本所在目录：
-
-   ```powershell
-   cd "C:\Users\Ferro\Desktop\水电"
-   ```
-
-4. 运行程序：
+3. 运行程序：
 
    ```powershell
    python dorm_fee_split.py
